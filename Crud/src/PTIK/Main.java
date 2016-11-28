@@ -11,4 +11,5 @@ package PTIK;
  */
 public class Main {
     private int leo;
+    private String PushMeong;
 }
